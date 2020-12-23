@@ -447,7 +447,7 @@ a[data-fancybox] img {
   height: 200px;
   margin: 0 auto;
   border-radius: 50%;
-  background-size: cover;
+  background-size: cover;background-color: coral;
 }
 
 #profile .portrait .imgk{  width: 200px;
