@@ -438,8 +438,8 @@ a[data-fancybox] img {
   background-size: cover;background-color: coral;
 }
 
-#profile .portrait .imgk{  width: 200px;
-  height: 200px;margin:10px;
+.portrait .imgk{  width: 200px;
+  height: 200px;margin:5px;
 }
 
 #profile .portrait-title h2 {
