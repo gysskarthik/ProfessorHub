@@ -1,17 +1,4 @@
 
-
-
-  
-/*************************************************
- *  Hugo Academic: an academic theme for Hugo.
- *  Designed by @GeorgeCushen.
- *  https://github.com/gcushen/hugo-academic
- **************************************************/
-
-/*************************************************
- *  Core
- **************************************************/
-
 *,
 *::after,
 *::before {
@@ -452,7 +439,7 @@ a[data-fancybox] img {
 }
 
 #profile .portrait .imgk{  width: 200px;
-  height: 200px;margin:0;
+  height: 200px;margin:10px;
 }
 
 #profile .portrait-title h2 {
