@@ -751,7 +751,9 @@ article .article-metadata {
 /*************************************************
  *  Projects
  **************************************************/
-
+.home-section{
+margin-top:50px;
+}
 #projects.home-section li {
   margin-bottom: 1rem;
 }
