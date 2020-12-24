@@ -462,15 +462,15 @@ a[data-fancybox] img {
   margin-top: 30px;
 }
 
-#profile .network-icon li {
+#profile ul .network-icon li {
   margin-right: 10px;
 }
 
-#profile .network-icon li:last-of-type {
+#profile ul .network-icon li:last-of-type {
   margin-right: 0;
 }
 
-#profile .network-icon li:hover {
+#profile ul .network-icon li:hover {
   transform: scale(1.2)
 }
 
