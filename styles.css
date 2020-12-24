@@ -433,9 +433,9 @@ a[data-fancybox] img {
   width: 200px;
   height: 200px;
   margin: 0;
-  
+  background-image: url('img/defaultImg.png');
   border-radius: 100%;
-  background-size: cover;background-color: coral;
+  background-size: cover;
 }
 
 
